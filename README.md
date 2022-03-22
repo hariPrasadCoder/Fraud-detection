@@ -1,1 +1,1 @@
-# Fraud-detection
+# Fraud-detection (for e-commerce purchases)
